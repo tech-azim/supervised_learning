@@ -1,1 +1,1 @@
-# linear_regression_adsense_sell
+# SUPERVISED LEARNING
